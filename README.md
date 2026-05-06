@@ -10,6 +10,15 @@ Gosto de desafios e de entender a fundo como as coisas funcionam, principalmente
 
 🚀 Sempre aprendendo. Sempre evoluindo.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/vitor-kaleu-campanholi-5363b9338/" target="_blank">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+      width="25px"
+    />
+  </a>
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
