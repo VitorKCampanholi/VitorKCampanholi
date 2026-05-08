@@ -106,5 +106,5 @@ Gosto de desafios e de entender a fundo como as coisas funcionam, principalmente
 </P>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VitorKCampanholi/VitorKCampanholi/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/VitorKCampanholi/VitorKCampanholi/output/github-contribution-grid-snake-dark.svg">
 </p>
