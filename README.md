@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Vitor Kaleu Campanholi
 
-**`Desenvolvedor FullStack`**
+**`Software Developer`**
 
 Olá! Meu nome é Vitor Kaleu Campanholi, sou desenvolvedor Full Stack, natural de São Paulo, e estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas.
 
