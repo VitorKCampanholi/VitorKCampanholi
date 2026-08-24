@@ -109,10 +109,10 @@ Gosto de desafios e de entender a fundo como as coisas funcionam, principalmente
   <img 
   height="180em" 
   style="margin-right: 10px;" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorKCampanholi&show_icons=true&theme=tokyonight&custom_title=Minhas%20Estat%C3%ADsticas"/>
+  src="https://github-readme-stats-eight-smoky-59.vercel.app/api?username=VitorKCampanholi&show_icons=true&theme=tokyonight&custom_title=Minhas%20Estat%C3%ADsticas"/>
   <img 
   height="180em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorKCampanholi&layout=compact&theme=tokyonight&custom_title=Tecnologias"/>
+  src="https://github-readme-stats-eight-smoky-59.vercel.app/api/top-langs/?username=VitorKCampanholi&layout=compact&theme=tokyonight&custom_title=Tecnologias"/>
 </div>
 </p>
 
