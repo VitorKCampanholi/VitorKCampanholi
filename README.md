@@ -60,7 +60,7 @@ Gosto de desafios e de entender a fundo como as coisas funcionam, principalmente
     alt="Blazor" 
     title="Blazor"
     width="30px" 
-    style="padding-right: 10px;"    
+    style="padding-right: 10px;"     
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" 
      />         
 
@@ -89,7 +89,6 @@ Gosto de desafios e de entender a fundo como as coisas funcionam, principalmente
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
    />        
 
-
    <img 
     align="left" 
     alt="visualstudio" 
@@ -105,17 +104,17 @@ Gosto de desafios e de entender a fundo como as coisas funcionam, principalmente
 
 ### 📊 Estatísticas
 ------
-<P>
+<p>
 <div align="center">
   <img 
   height="180em" 
   style="margin-right: 10px;" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorkCampanholi&show_icons=true&theme=tokyonight&custom_title=Minhas%20Estatísticas"/>
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorKCampanholi&show_icons=true&theme=tokyonight&custom_title=Minhas%20Estat%C3%ADsticas"/>
   <img 
   height="180em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorkCampanholi&layout=compact&theme=tokyonight&custom_title=Tecnologias"/>
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorKCampanholi&layout=compact&theme=tokyonight&custom_title=Tecnologias"/>
 </div>
-</P>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VitorKCampanholi/VitorKCampanholi/output/pacman-contribution-graph.svg">
